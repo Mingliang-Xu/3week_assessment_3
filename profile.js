@@ -16,4 +16,4 @@ function myRitual (event){
     alert('My favorite ritual is making my own coffee in the morning')
 }
 
-myFavoriteRitual.addEventListener('click',myRitual)
+myFavoriteRitual.addEventListener('click', myRitual)
